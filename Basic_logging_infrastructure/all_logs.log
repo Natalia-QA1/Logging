@@ -1,0 +1,494 @@
+root >> CRITICAL >> Critical error message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 15068
+root >> ERROR >> Error message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 15068
+root >> WARNING >> Warning message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 15068
+root >> INFO >> Info >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 15068
+root >> DEBUG >> Debug message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 15068
+root >> INFO >> Division started >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 15068
+root >> CRITICAL >> Critical error message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 22996
+root >> ERROR >> Error message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 22996
+root >> WARNING >> Warning message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 22996
+root >> INFO >> Info >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 22996
+root >> DEBUG >> Debug message >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 22996
+root >> INFO >> Division started >> 2024.03.18 13:00 >> 1_logging infrastructure.py >> 22996
+root >> CRITICAL >> Critical error message >> 2024.03.18 14:29 >> 1_logging infrastructure.py >> 23184
+root >> ERROR >> Error message >> 2024.03.18 14:29 >> 1_logging infrastructure.py >> 23184
+root >> WARNING >> Warning message >> 2024.03.18 14:29 >> 1_logging infrastructure.py >> 23184
+root >> INFO >> Info >> 2024.03.18 14:29 >> 1_logging infrastructure.py >> 23184
+root >> DEBUG >> Debug message >> 2024.03.18 14:29 >> 1_logging infrastructure.py >> 23184
+root >> INFO >> Division started >> 2024.03.18 14:29 >> 1_logging infrastructure.py >> 23184
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 14:29 >> 1_logging infrastructure.py >> 23184
+root >> CRITICAL >> Critical error message >> 2024.03.18 14:31 >> 1_logging infrastructure.py >> 39188
+root >> ERROR >> Error message >> 2024.03.18 14:31 >> 1_logging infrastructure.py >> 39188
+root >> WARNING >> Warning message >> 2024.03.18 14:31 >> 1_logging infrastructure.py >> 39188
+root >> INFO >> Info >> 2024.03.18 14:31 >> 1_logging infrastructure.py >> 39188
+root >> DEBUG >> Debug message >> 2024.03.18 14:31 >> 1_logging infrastructure.py >> 39188
+root >> INFO >> Division started >> 2024.03.18 14:31 >> 1_logging infrastructure.py >> 39188
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 14:31 >> 1_logging infrastructure.py >> 39188
+root >> CRITICAL >> Critical error message >> 2024.03.18 14:33 >> 1_logging infrastructure.py >> 3012
+root >> ERROR >> Error message >> 2024.03.18 14:33 >> 1_logging infrastructure.py >> 3012
+root >> WARNING >> Warning message >> 2024.03.18 14:33 >> 1_logging infrastructure.py >> 3012
+root >> INFO >> Info >> 2024.03.18 14:33 >> 1_logging infrastructure.py >> 3012
+root >> DEBUG >> Debug message >> 2024.03.18 14:33 >> 1_logging infrastructure.py >> 3012
+root >> INFO >> Division started >> 2024.03.18 14:33 >> 1_logging infrastructure.py >> 3012
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 14:33 >> 1_logging infrastructure.py >> 3012
+root >> CRITICAL >> Critical error message >> 2024.03.18 14:43 >> 1_logging infrastructure.py >> 15856
+root >> ERROR >> Error message >> 2024.03.18 14:43 >> 1_logging infrastructure.py >> 15856
+root >> WARNING >> Warning message >> 2024.03.18 14:43 >> 1_logging infrastructure.py >> 15856
+root >> INFO >> Info >> 2024.03.18 14:43 >> 1_logging infrastructure.py >> 15856
+root >> DEBUG >> Debug message >> 2024.03.18 14:43 >> 1_logging infrastructure.py >> 15856
+root >> INFO >> Division started >> 2024.03.18 14:43 >> 1_logging infrastructure.py >> 15856
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 14:43 >> 1_logging infrastructure.py >> 15856
+root >> CRITICAL >> Critical error message >> 2024.03.18 14:53 >> 1_logging infrastructure.py >> 6848
+root >> ERROR >> Error message >> 2024.03.18 14:53 >> 1_logging infrastructure.py >> 6848
+root >> WARNING >> Warning message >> 2024.03.18 14:53 >> 1_logging infrastructure.py >> 6848
+root >> INFO >> Info >> 2024.03.18 14:53 >> 1_logging infrastructure.py >> 6848
+root >> DEBUG >> Debug message >> 2024.03.18 14:53 >> 1_logging infrastructure.py >> 6848
+root >> INFO >> Division started >> 2024.03.18 14:53 >> 1_logging infrastructure.py >> 6848
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 14:53 >> 1_logging infrastructure.py >> 6848
+root >> CRITICAL >> Critical error message >> 2024.03.18 14:56 >> 1_logging infrastructure.py >> 19680
+root >> ERROR >> Error message >> 2024.03.18 14:56 >> 1_logging infrastructure.py >> 19680
+root >> WARNING >> Warning message >> 2024.03.18 14:56 >> 1_logging infrastructure.py >> 19680
+root >> INFO >> Info >> 2024.03.18 14:56 >> 1_logging infrastructure.py >> 19680
+root >> DEBUG >> Debug message >> 2024.03.18 14:56 >> 1_logging infrastructure.py >> 19680
+root >> INFO >> Division started >> 2024.03.18 14:56 >> 1_logging infrastructure.py >> 19680
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 14:56 >> 1_logging infrastructure.py >> 19680
+root >> CRITICAL >> Critical error message >> 2024.03.18 14:57 >> 1_logging infrastructure.py >> 31884
+root >> ERROR >> Error message >> 2024.03.18 14:57 >> 1_logging infrastructure.py >> 31884
+root >> WARNING >> Warning message >> 2024.03.18 14:57 >> 1_logging infrastructure.py >> 31884
+root >> INFO >> Info >> 2024.03.18 14:57 >> 1_logging infrastructure.py >> 31884
+root >> DEBUG >> Debug message >> 2024.03.18 14:57 >> 1_logging infrastructure.py >> 31884
+root >> INFO >> Division started >> 2024.03.18 14:57 >> 1_logging infrastructure.py >> 31884
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 14:57 >> 1_logging infrastructure.py >> 31884
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:01 >> 1_logging infrastructure.py >> 21736
+root >> ERROR >> Error message >> 2024.03.18 15:01 >> 1_logging infrastructure.py >> 21736
+root >> WARNING >> Warning message >> 2024.03.18 15:01 >> 1_logging infrastructure.py >> 21736
+root >> INFO >> Info >> 2024.03.18 15:01 >> 1_logging infrastructure.py >> 21736
+root >> DEBUG >> Debug message >> 2024.03.18 15:01 >> 1_logging infrastructure.py >> 21736
+root >> INFO >> Division started >> 2024.03.18 15:01 >> 1_logging infrastructure.py >> 21736
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:01 >> 1_logging infrastructure.py >> 21736
+root >> INFO >> Division started >> 2024.03.18 15:02 >> 2_test.py >> 13976
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:02 >> 2_test.py >> 13976
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:04 >> 1_logging infrastructure.py >> 35136
+root >> ERROR >> Error message >> 2024.03.18 15:04 >> 1_logging infrastructure.py >> 35136
+root >> WARNING >> Warning message >> 2024.03.18 15:04 >> 1_logging infrastructure.py >> 35136
+root >> INFO >> Info >> 2024.03.18 15:04 >> 1_logging infrastructure.py >> 35136
+root >> DEBUG >> Debug message >> 2024.03.18 15:04 >> 1_logging infrastructure.py >> 35136
+root >> INFO >> Division started >> 2024.03.18 15:04 >> 1_logging infrastructure.py >> 35136
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:04 >> 1_logging infrastructure.py >> 35136
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:06 >> 1_logging infrastructure.py >> 27704
+root >> ERROR >> Error message >> 2024.03.18 15:06 >> 1_logging infrastructure.py >> 27704
+root >> WARNING >> Warning message >> 2024.03.18 15:06 >> 1_logging infrastructure.py >> 27704
+root >> INFO >> Info >> 2024.03.18 15:06 >> 1_logging infrastructure.py >> 27704
+root >> DEBUG >> Debug message >> 2024.03.18 15:06 >> 1_logging infrastructure.py >> 27704
+root >> INFO >> Division started >> 2024.03.18 15:06 >> 1_logging infrastructure.py >> 27704
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:06 >> 1_logging infrastructure.py >> 27704
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:08 >> 1_logging infrastructure.py >> 39132
+root >> ERROR >> Error message >> 2024.03.18 15:08 >> 1_logging infrastructure.py >> 39132
+root >> WARNING >> Warning message >> 2024.03.18 15:08 >> 1_logging infrastructure.py >> 39132
+root >> INFO >> Info >> 2024.03.18 15:08 >> 1_logging infrastructure.py >> 39132
+root >> DEBUG >> Debug message >> 2024.03.18 15:08 >> 1_logging infrastructure.py >> 39132
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 30752
+root >> ERROR >> Error message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 30752
+root >> WARNING >> Warning message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 30752
+root >> INFO >> Info >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 30752
+root >> DEBUG >> Debug message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 30752
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 7056
+root >> ERROR >> Error message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 7056
+root >> WARNING >> Warning message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 7056
+root >> INFO >> Info >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 7056
+root >> DEBUG >> Debug message >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 7056
+root >> INFO >> Division started >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 7056
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:09 >> 1_logging infrastructure.py >> 7056
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:10 >> 1_logging infrastructure.py >> 8736
+root >> ERROR >> Error message >> 2024.03.18 15:10 >> 1_logging infrastructure.py >> 8736
+root >> WARNING >> Warning message >> 2024.03.18 15:10 >> 1_logging infrastructure.py >> 8736
+root >> INFO >> Info >> 2024.03.18 15:10 >> 1_logging infrastructure.py >> 8736
+root >> DEBUG >> Debug message >> 2024.03.18 15:10 >> 1_logging infrastructure.py >> 8736
+root >> INFO >> Division started >> 2024.03.18 15:10 >> 1_logging infrastructure.py >> 8736
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:10 >> 1_logging infrastructure.py >> 8736
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:11 >> 1_logging infrastructure.py >> 33004
+root >> ERROR >> Error message >> 2024.03.18 15:11 >> 1_logging infrastructure.py >> 33004
+root >> WARNING >> Warning message >> 2024.03.18 15:11 >> 1_logging infrastructure.py >> 33004
+root >> INFO >> Info >> 2024.03.18 15:11 >> 1_logging infrastructure.py >> 33004
+root >> DEBUG >> Debug message >> 2024.03.18 15:11 >> 1_logging infrastructure.py >> 33004
+root >> INFO >> Division started >> 2024.03.18 15:11 >> 1_logging infrastructure.py >> 33004
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:11 >> 1_logging infrastructure.py >> 33004
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:12 >> 1_logging infrastructure.py >> 2632
+root >> ERROR >> Error message >> 2024.03.18 15:12 >> 1_logging infrastructure.py >> 2632
+root >> WARNING >> Warning message >> 2024.03.18 15:12 >> 1_logging infrastructure.py >> 2632
+root >> INFO >> Info >> 2024.03.18 15:12 >> 1_logging infrastructure.py >> 2632
+root >> DEBUG >> Debug message >> 2024.03.18 15:12 >> 1_logging infrastructure.py >> 2632
+root >> INFO >> Division started >> 2024.03.18 15:12 >> 1_logging infrastructure.py >> 2632
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:12 >> 1_logging infrastructure.py >> 2632
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:13 >> 1_logging infrastructure.py >> 21764
+root >> ERROR >> Error message >> 2024.03.18 15:13 >> 1_logging infrastructure.py >> 21764
+root >> WARNING >> Warning message >> 2024.03.18 15:13 >> 1_logging infrastructure.py >> 21764
+root >> INFO >> Info >> 2024.03.18 15:13 >> 1_logging infrastructure.py >> 21764
+root >> DEBUG >> Debug message >> 2024.03.18 15:13 >> 1_logging infrastructure.py >> 21764
+root >> INFO >> Division started >> 2024.03.18 15:13 >> 1_logging infrastructure.py >> 21764
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:13 >> 1_logging infrastructure.py >> 21764
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:14 >> 1_logging infrastructure.py >> 37300
+root >> ERROR >> Error message >> 2024.03.18 15:14 >> 1_logging infrastructure.py >> 37300
+root >> WARNING >> Warning message >> 2024.03.18 15:14 >> 1_logging infrastructure.py >> 37300
+root >> INFO >> Info >> 2024.03.18 15:14 >> 1_logging infrastructure.py >> 37300
+root >> DEBUG >> Debug message >> 2024.03.18 15:14 >> 1_logging infrastructure.py >> 37300
+root >> INFO >> Division started >> 2024.03.18 15:14 >> 1_logging infrastructure.py >> 37300
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:14 >> 1_logging infrastructure.py >> 37300
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> ERROR >> Error message >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> WARNING >> Warning message >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> INFO >> Info >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> DEBUG >> Debug message >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> INFO >> This is a test log message sent via email >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> INFO >> Division started >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:37 >> 1_logging infrastructure.py >> 14716
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> ERROR >> Error message >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> WARNING >> Warning message >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> INFO >> Info >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> DEBUG >> Debug message >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> INFO >> This is a test log message sent via email >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> INFO >> Division started >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:41 >> 1_logging infrastructure.py >> 20144
+root >> CRITICAL >> Critical error message >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> ERROR >> Error message >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> WARNING >> Warning message >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> INFO >> Info >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> DEBUG >> Debug message >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> INFO >> This is a test log message sent via email >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> INFO >> Division started >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 15:52 >> 1_logging infrastructure.py >> 25480
+root >> CRITICAL >> Critical error message >> 2024.03.18 16:06 >> 1_logging infrastructure.py >> 27872
+root >> ERROR >> Error message >> 2024.03.18 16:06 >> 1_logging infrastructure.py >> 27872
+root >> WARNING >> Warning message >> 2024.03.18 16:06 >> 1_logging infrastructure.py >> 27872
+root >> INFO >> Info >> 2024.03.18 16:06 >> 1_logging infrastructure.py >> 27872
+root >> DEBUG >> Debug message >> 2024.03.18 16:06 >> 1_logging infrastructure.py >> 27872
+root >> CRITICAL >> Critical error message >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> ERROR >> Error message >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> WARNING >> Warning message >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> INFO >> Info >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> DEBUG >> Debug message >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> INFO >> logger configured >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> INFO >> Division started >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> CRITICAL >> Error: division by zero >> 2024.03.18 16:07 >> 1_logging infrastructure.py >> 22128
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> ERROR >> Error message >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> WARNING >> Warning message >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> INFO >> Info >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> DEBUG >> Debug message >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> INFO >> logger configured >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> INFO >> Division started >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:14 >> 1_logging infrastructure.py >> 20152
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> ERROR >> Error message >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> WARNING >> Warning message >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> INFO >> Info >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> DEBUG >> Debug message >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> INFO >> logger configured >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> INFO >> Division started >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:16 >> 1_logging infrastructure.py >> 26928
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:28 >> 1_logging infrastructure.py >> 12864
+root >> ERROR >> Error message >> 2024.03.19 19:28 >> 1_logging infrastructure.py >> 12864
+root >> WARNING >> Warning message >> 2024.03.19 19:28 >> 1_logging infrastructure.py >> 12864
+root >> INFO >> Info >> 2024.03.19 19:28 >> 1_logging infrastructure.py >> 12864
+root >> DEBUG >> Debug message >> 2024.03.19 19:28 >> 1_logging infrastructure.py >> 12864
+root >> INFO >> Division started >> 2024.03.19 19:28 >> 1_logging infrastructure.py >> 12864
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:28 >> 1_logging infrastructure.py >> 12864
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:30 >> 1_logging infrastructure.py >> 28716
+root >> ERROR >> Error message >> 2024.03.19 19:30 >> 1_logging infrastructure.py >> 28716
+root >> WARNING >> Warning message >> 2024.03.19 19:30 >> 1_logging infrastructure.py >> 28716
+root >> INFO >> Info >> 2024.03.19 19:30 >> 1_logging infrastructure.py >> 28716
+root >> DEBUG >> Debug message >> 2024.03.19 19:30 >> 1_logging infrastructure.py >> 28716
+root >> INFO >> Division started >> 2024.03.19 19:30 >> 1_logging infrastructure.py >> 28716
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:30 >> 1_logging infrastructure.py >> 28716
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:32 >> 1_logging infrastructure.py >> 22172
+root >> ERROR >> Error message >> 2024.03.19 19:32 >> 1_logging infrastructure.py >> 22172
+root >> WARNING >> Warning message >> 2024.03.19 19:32 >> 1_logging infrastructure.py >> 22172
+root >> INFO >> Info >> 2024.03.19 19:32 >> 1_logging infrastructure.py >> 22172
+root >> DEBUG >> Debug message >> 2024.03.19 19:32 >> 1_logging infrastructure.py >> 22172
+root >> INFO >> Division started >> 2024.03.19 19:32 >> 1_logging infrastructure.py >> 22172
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:32 >> 1_logging infrastructure.py >> 22172
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:37 >> 1_logging infrastructure.py >> 20612
+root >> ERROR >> Error message >> 2024.03.19 19:37 >> 1_logging infrastructure.py >> 20612
+root >> WARNING >> Warning message >> 2024.03.19 19:37 >> 1_logging infrastructure.py >> 20612
+root >> INFO >> Info >> 2024.03.19 19:37 >> 1_logging infrastructure.py >> 20612
+root >> DEBUG >> Debug message >> 2024.03.19 19:37 >> 1_logging infrastructure.py >> 20612
+root >> INFO >> Division started >> 2024.03.19 19:37 >> 1_logging infrastructure.py >> 20612
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:37 >> 1_logging infrastructure.py >> 20612
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:39 >> 1_logging infrastructure.py >> 11032
+root >> ERROR >> Error message >> 2024.03.19 19:39 >> 1_logging infrastructure.py >> 11032
+root >> WARNING >> Warning message >> 2024.03.19 19:39 >> 1_logging infrastructure.py >> 11032
+root >> INFO >> Info >> 2024.03.19 19:39 >> 1_logging infrastructure.py >> 11032
+root >> DEBUG >> Debug message >> 2024.03.19 19:39 >> 1_logging infrastructure.py >> 11032
+root >> INFO >> Division started >> 2024.03.19 19:39 >> 1_logging infrastructure.py >> 11032
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:40 >> 1_logging infrastructure.py >> 11032
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:42 >> 1_logging infrastructure.py >> 14932
+root >> ERROR >> Error message >> 2024.03.19 19:42 >> 1_logging infrastructure.py >> 14932
+root >> WARNING >> Warning message >> 2024.03.19 19:42 >> 1_logging infrastructure.py >> 14932
+root >> INFO >> Info >> 2024.03.19 19:42 >> 1_logging infrastructure.py >> 14932
+root >> DEBUG >> Debug message >> 2024.03.19 19:42 >> 1_logging infrastructure.py >> 14932
+root >> INFO >> Division started >> 2024.03.19 19:42 >> 1_logging infrastructure.py >> 14932
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:42 >> 1_logging infrastructure.py >> 14932
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:44 >> 1_logging infrastructure.py >> 38144
+root >> ERROR >> Error message >> 2024.03.19 19:44 >> 1_logging infrastructure.py >> 38144
+root >> WARNING >> Warning message >> 2024.03.19 19:44 >> 1_logging infrastructure.py >> 38144
+root >> INFO >> Info >> 2024.03.19 19:44 >> 1_logging infrastructure.py >> 38144
+root >> DEBUG >> Debug message >> 2024.03.19 19:44 >> 1_logging infrastructure.py >> 38144
+root >> INFO >> Division started >> 2024.03.19 19:44 >> 1_logging infrastructure.py >> 38144
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:44 >> 1_logging infrastructure.py >> 38144
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 13804
+root >> ERROR >> Error message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 13804
+root >> WARNING >> Warning message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 13804
+root >> INFO >> Info >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 13804
+root >> DEBUG >> Debug message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 13804
+root >> CRITICAL >> Critical error message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 25168
+root >> ERROR >> Error message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 25168
+root >> WARNING >> Warning message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 25168
+root >> INFO >> Info >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 25168
+root >> DEBUG >> Debug message >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 25168
+root >> INFO >> Division started >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 25168
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 19:57 >> 1_logging infrastructure.py >> 25168
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:01 >> 1_logging infrastructure.py >> 24476
+root >> ERROR >> Error message >> 2024.03.19 20:01 >> 1_logging infrastructure.py >> 24476
+root >> WARNING >> Warning message >> 2024.03.19 20:01 >> 1_logging infrastructure.py >> 24476
+root >> INFO >> Info >> 2024.03.19 20:01 >> 1_logging infrastructure.py >> 24476
+root >> DEBUG >> Debug message >> 2024.03.19 20:01 >> 1_logging infrastructure.py >> 24476
+root >> ERROR >> production is down >> 2024.03.19 20:01 >> 1_logging infrastructure.py >> 24476
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:02 >> 1_logging infrastructure.py >> 17044
+root >> ERROR >> Error message >> 2024.03.19 20:02 >> 1_logging infrastructure.py >> 17044
+root >> WARNING >> Warning message >> 2024.03.19 20:02 >> 1_logging infrastructure.py >> 17044
+root >> INFO >> Info >> 2024.03.19 20:02 >> 1_logging infrastructure.py >> 17044
+root >> DEBUG >> Debug message >> 2024.03.19 20:02 >> 1_logging infrastructure.py >> 17044
+root >> ERROR >> production is down >> 2024.03.19 20:02 >> 1_logging infrastructure.py >> 17044
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:08 >> 1_logging infrastructure.py >> 2196
+root >> ERROR >> Error message >> 2024.03.19 20:08 >> 1_logging infrastructure.py >> 2196
+root >> WARNING >> Warning message >> 2024.03.19 20:08 >> 1_logging infrastructure.py >> 2196
+root >> INFO >> Info >> 2024.03.19 20:08 >> 1_logging infrastructure.py >> 2196
+root >> DEBUG >> Debug message >> 2024.03.19 20:08 >> 1_logging infrastructure.py >> 2196
+root >> ERROR >> production is down >> 2024.03.19 20:08 >> 1_logging infrastructure.py >> 2196
+root >> CRITICAL >> production is down >> 2024.03.19 20:08 >> 1_logging infrastructure.py >> 2196
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:10 >> 1_logging infrastructure.py >> 968
+root >> ERROR >> Error message >> 2024.03.19 20:10 >> 1_logging infrastructure.py >> 968
+root >> WARNING >> Warning message >> 2024.03.19 20:10 >> 1_logging infrastructure.py >> 968
+root >> INFO >> Info >> 2024.03.19 20:10 >> 1_logging infrastructure.py >> 968
+root >> DEBUG >> Debug message >> 2024.03.19 20:10 >> 1_logging infrastructure.py >> 968
+root >> ERROR >> production is down >> 2024.03.19 20:10 >> 1_logging infrastructure.py >> 968
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:17 >> 1_logging infrastructure.py >> 31984
+root >> ERROR >> Error message >> 2024.03.19 20:17 >> 1_logging infrastructure.py >> 31984
+root >> WARNING >> Warning message >> 2024.03.19 20:17 >> 1_logging infrastructure.py >> 31984
+root >> INFO >> Info >> 2024.03.19 20:17 >> 1_logging infrastructure.py >> 31984
+root >> DEBUG >> Debug message >> 2024.03.19 20:17 >> 1_logging infrastructure.py >> 31984
+root >> ERROR >> production is down >> 2024.03.19 20:17 >> 1_logging infrastructure.py >> 31984
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:18 >> 1_logging infrastructure.py >> 39708
+root >> ERROR >> Error message >> 2024.03.19 20:18 >> 1_logging infrastructure.py >> 39708
+root >> WARNING >> Warning message >> 2024.03.19 20:18 >> 1_logging infrastructure.py >> 39708
+root >> INFO >> Info >> 2024.03.19 20:18 >> 1_logging infrastructure.py >> 39708
+root >> DEBUG >> Debug message >> 2024.03.19 20:18 >> 1_logging infrastructure.py >> 39708
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:19 >> 1_logging infrastructure.py >> 8836
+root >> ERROR >> Error message >> 2024.03.19 20:19 >> 1_logging infrastructure.py >> 8836
+root >> WARNING >> Warning message >> 2024.03.19 20:19 >> 1_logging infrastructure.py >> 8836
+root >> INFO >> Info >> 2024.03.19 20:19 >> 1_logging infrastructure.py >> 8836
+root >> DEBUG >> Debug message >> 2024.03.19 20:19 >> 1_logging infrastructure.py >> 8836
+root >> ERROR >> production is down >> 2024.03.19 20:19 >> 1_logging infrastructure.py >> 8836
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:21 >> 1_logging infrastructure.py >> 24988
+root >> ERROR >> Error message >> 2024.03.19 20:21 >> 1_logging infrastructure.py >> 24988
+root >> WARNING >> Warning message >> 2024.03.19 20:21 >> 1_logging infrastructure.py >> 24988
+root >> INFO >> Info >> 2024.03.19 20:21 >> 1_logging infrastructure.py >> 24988
+root >> DEBUG >> Debug message >> 2024.03.19 20:21 >> 1_logging infrastructure.py >> 24988
+root >> ERROR >> production is down >> 2024.03.19 20:21 >> 1_logging infrastructure.py >> 24988
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:22 >> 1_logging infrastructure.py >> 28272
+root >> ERROR >> Error message >> 2024.03.19 20:22 >> 1_logging infrastructure.py >> 28272
+root >> WARNING >> Warning message >> 2024.03.19 20:22 >> 1_logging infrastructure.py >> 28272
+root >> INFO >> Info >> 2024.03.19 20:22 >> 1_logging infrastructure.py >> 28272
+root >> DEBUG >> Debug message >> 2024.03.19 20:22 >> 1_logging infrastructure.py >> 28272
+root >> ERROR >> production is down >> 2024.03.19 20:22 >> 1_logging infrastructure.py >> 28272
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:25 >> 1_logging infrastructure.py >> 18068
+root >> ERROR >> Error message >> 2024.03.19 20:25 >> 1_logging infrastructure.py >> 18068
+root >> WARNING >> Warning message >> 2024.03.19 20:25 >> 1_logging infrastructure.py >> 18068
+root >> INFO >> Info >> 2024.03.19 20:25 >> 1_logging infrastructure.py >> 18068
+root >> DEBUG >> Debug message >> 2024.03.19 20:25 >> 1_logging infrastructure.py >> 18068
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:26 >> 1_logging infrastructure.py >> 36092
+root >> ERROR >> Error message >> 2024.03.19 20:26 >> 1_logging infrastructure.py >> 36092
+root >> WARNING >> Warning message >> 2024.03.19 20:26 >> 1_logging infrastructure.py >> 36092
+root >> INFO >> Info >> 2024.03.19 20:26 >> 1_logging infrastructure.py >> 36092
+root >> DEBUG >> Debug message >> 2024.03.19 20:26 >> 1_logging infrastructure.py >> 36092
+root >> ERROR >> production is down >> 2024.03.19 20:26 >> 1_logging infrastructure.py >> 36092
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 25524
+root >> ERROR >> Error message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 25524
+root >> WARNING >> Warning message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 25524
+root >> INFO >> Info >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 25524
+root >> DEBUG >> Debug message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 25524
+root >> ERROR >> production is down >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 25524
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 32708
+root >> ERROR >> Error message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 32708
+root >> WARNING >> Warning message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 32708
+root >> INFO >> Info >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 32708
+root >> DEBUG >> Debug message >> 2024.03.19 20:31 >> 1_logging infrastructure.py >> 32708
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:34 >> 1_logging infrastructure.py >> 30400
+root >> ERROR >> Error message >> 2024.03.19 20:34 >> 1_logging infrastructure.py >> 30400
+root >> WARNING >> Warning message >> 2024.03.19 20:34 >> 1_logging infrastructure.py >> 30400
+root >> INFO >> Info >> 2024.03.19 20:34 >> 1_logging infrastructure.py >> 30400
+root >> DEBUG >> Debug message >> 2024.03.19 20:34 >> 1_logging infrastructure.py >> 30400
+root >> ERROR >> production is down >> 2024.03.19 20:34 >> 1_logging infrastructure.py >> 30400
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 9596
+root >> ERROR >> Error message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 9596
+root >> WARNING >> Warning message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 9596
+root >> INFO >> Info >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 9596
+root >> DEBUG >> Debug message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 9596
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 35256
+root >> ERROR >> Error message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 35256
+root >> WARNING >> Warning message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 35256
+root >> INFO >> Info >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 35256
+root >> DEBUG >> Debug message >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 35256
+root >> ERROR >> production is down >> 2024.03.19 20:35 >> 1_logging infrastructure.py >> 35256
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 4744
+root >> ERROR >> Error message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 4744
+root >> WARNING >> Warning message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 4744
+root >> INFO >> Info >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 4744
+root >> DEBUG >> Debug message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 4744
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 35408
+root >> ERROR >> Error message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 35408
+root >> WARNING >> Warning message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 35408
+root >> INFO >> Info >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 35408
+root >> DEBUG >> Debug message >> 2024.03.19 20:41 >> 1_logging infrastructure.py >> 35408
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:44 >> 1_logging infrastructure.py >> 36772
+root >> ERROR >> Error message >> 2024.03.19 20:44 >> 1_logging infrastructure.py >> 36772
+root >> WARNING >> Warning message >> 2024.03.19 20:44 >> 1_logging infrastructure.py >> 36772
+root >> INFO >> Info >> 2024.03.19 20:44 >> 1_logging infrastructure.py >> 36772
+root >> DEBUG >> Debug message >> 2024.03.19 20:44 >> 1_logging infrastructure.py >> 36772
+root >> ERROR >> production is down >> 2024.03.19 20:44 >> 1_logging infrastructure.py >> 36772
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:45 >> 1_logging infrastructure.py >> 37788
+root >> ERROR >> Error message >> 2024.03.19 20:45 >> 1_logging infrastructure.py >> 37788
+root >> WARNING >> Warning message >> 2024.03.19 20:45 >> 1_logging infrastructure.py >> 37788
+root >> INFO >> Info >> 2024.03.19 20:45 >> 1_logging infrastructure.py >> 37788
+root >> DEBUG >> Debug message >> 2024.03.19 20:45 >> 1_logging infrastructure.py >> 37788
+root >> ERROR >> production is down >> 2024.03.19 20:45 >> 1_logging infrastructure.py >> 37788
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 1288
+root >> ERROR >> Error message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 1288
+root >> WARNING >> Warning message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 1288
+root >> INFO >> Info >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 1288
+root >> DEBUG >> Debug message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 1288
+root >> ERROR >> production is down >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 1288
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 34048
+root >> ERROR >> Error message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 34048
+root >> WARNING >> Warning message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 34048
+root >> INFO >> Info >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 34048
+root >> DEBUG >> Debug message >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 34048
+root >> ERROR >> production is down >> 2024.03.19 20:47 >> 1_logging infrastructure.py >> 34048
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:50 >> 1_logging infrastructure.py >> 38996
+root >> ERROR >> Error message >> 2024.03.19 20:50 >> 1_logging infrastructure.py >> 38996
+root >> WARNING >> Warning message >> 2024.03.19 20:50 >> 1_logging infrastructure.py >> 38996
+root >> INFO >> Info >> 2024.03.19 20:50 >> 1_logging infrastructure.py >> 38996
+root >> DEBUG >> Debug message >> 2024.03.19 20:50 >> 1_logging infrastructure.py >> 38996
+root >> ERROR >> production is down >> 2024.03.19 20:50 >> 1_logging infrastructure.py >> 38996
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 17232
+root >> ERROR >> Error message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 17232
+root >> WARNING >> Warning message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 17232
+root >> INFO >> Info >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 17232
+root >> DEBUG >> Debug message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 17232
+root >> ERROR >> production is down >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 17232
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 16092
+root >> ERROR >> Error message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 16092
+root >> WARNING >> Warning message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 16092
+root >> INFO >> Info >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 16092
+root >> DEBUG >> Debug message >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 16092
+root >> ERROR >> production is down >> 2024.03.19 20:55 >> 1_logging infrastructure.py >> 16092
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 40100
+root >> ERROR >> Error message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 40100
+root >> WARNING >> Warning message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 40100
+root >> INFO >> Info >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 40100
+root >> DEBUG >> Debug message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 40100
+root >> ERROR >> production is down >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 40100
+root >> CRITICAL >> Critical error message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 11748
+root >> ERROR >> Error message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 11748
+root >> WARNING >> Warning message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 11748
+root >> INFO >> Info >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 11748
+root >> DEBUG >> Debug message >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 11748
+root >> ERROR >> production is down >> 2024.03.19 20:56 >> 1_logging infrastructure.py >> 11748
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:25 >> 1_logging infrastructure.py >> 3844
+root >> ERROR >> Error message >> 2024.03.19 21:25 >> 1_logging infrastructure.py >> 3844
+root >> WARNING >> Warning message >> 2024.03.19 21:25 >> 1_logging infrastructure.py >> 3844
+root >> INFO >> Info >> 2024.03.19 21:25 >> 1_logging infrastructure.py >> 3844
+root >> DEBUG >> Debug message >> 2024.03.19 21:25 >> 1_logging infrastructure.py >> 3844
+root >> ERROR >> production is down >> 2024.03.19 21:25 >> 1_logging infrastructure.py >> 3844
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 18948
+root >> ERROR >> Error message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 18948
+root >> WARNING >> Warning message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 18948
+root >> INFO >> Info >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 18948
+root >> DEBUG >> Debug message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 18948
+root >> ERROR >> error >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 18948
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 2992
+root >> ERROR >> Error message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 2992
+root >> WARNING >> Warning message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 2992
+root >> INFO >> Info >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 2992
+root >> DEBUG >> Debug message >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 2992
+root >> ERROR >> error >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 2992
+root >> INFO >> Division started >> 2024.03.19 21:28 >> 1_logging infrastructure.py >> 2992
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:29 >> 1_logging infrastructure.py >> 4384
+root >> ERROR >> Error message >> 2024.03.19 21:29 >> 1_logging infrastructure.py >> 4384
+root >> WARNING >> Warning message >> 2024.03.19 21:29 >> 1_logging infrastructure.py >> 4384
+root >> INFO >> Info >> 2024.03.19 21:29 >> 1_logging infrastructure.py >> 4384
+root >> DEBUG >> Debug message >> 2024.03.19 21:29 >> 1_logging infrastructure.py >> 4384
+root >> ERROR >> error >> 2024.03.19 21:29 >> 1_logging infrastructure.py >> 4384
+root >> CRITICAL >> production is down >> 2024.03.19 21:30 >> 1_logging infrastructure.py >> 4384
+root >> INFO >> Division started >> 2024.03.19 21:30 >> 1_logging infrastructure.py >> 4384
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 21:30 >> 1_logging infrastructure.py >> 4384
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> ERROR >> Error message >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> WARNING >> Warning message >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> INFO >> Info >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> DEBUG >> Debug message >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> ERROR >> error >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> CRITICAL >> production is down >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> INFO >> Division started >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 21:52 >> 1_logging infrastructure.py >> 20760
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> ERROR >> Error message >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> WARNING >> Warning message >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> INFO >> Info >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> DEBUG >> Debug message >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> ERROR >> error >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> CRITICAL >> production is down >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> INFO >> Division started >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 21:53 >> 1_logging infrastructure.py >> 12696
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> ERROR >> Error message >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> WARNING >> Warning message >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> INFO >> Info >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> DEBUG >> Debug message >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> ERROR >> error >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> CRITICAL >> production is down >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> INFO >> Division started >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 21:54 >> 1_logging infrastructure.py >> 13988
+root >> CRITICAL >> Critical error message >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> ERROR >> Error message >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> WARNING >> Warning message >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> INFO >> Info >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> DEBUG >> Debug message >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> ERROR >> error >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> CRITICAL >> production is down >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> INFO >> Division started >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 21:57 >> 1_logging infrastructure.py >> 38536
+root >> CRITICAL >> Critical error message >> 2024.03.19 22:03 >> 1_logging infrastructure.py >> 39172
+root >> ERROR >> Error message >> 2024.03.19 22:03 >> 1_logging infrastructure.py >> 39172
+root >> WARNING >> Warning message >> 2024.03.19 22:03 >> 1_logging infrastructure.py >> 39172
+root >> INFO >> Info >> 2024.03.19 22:03 >> 1_logging infrastructure.py >> 39172
+root >> DEBUG >> Debug message >> 2024.03.19 22:03 >> 1_logging infrastructure.py >> 39172
+root >> ERROR >> error >> 2024.03.19 22:03 >> 1_logging infrastructure.py >> 39172
+root >> CRITICAL >> production is down >> 2024.03.19 22:04 >> 1_logging infrastructure.py >> 39172
+root >> CRITICAL >> something failed >> 2024.03.19 22:04 >> 1_logging infrastructure.py >> 39172
+root >> INFO >> Division started >> 2024.03.19 22:04 >> 1_logging infrastructure.py >> 39172
+root >> CRITICAL >> Error: division by zero >> 2024.03.19 22:04 >> 1_logging infrastructure.py >> 39172
+root >> CRITICAL >> Critical error message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 27188
+root >> ERROR >> Error message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 27188
+root >> WARNING >> Warning message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 27188
+root >> INFO >> Info >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 27188
+root >> DEBUG >> Debug message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 27188
+root >> CRITICAL >> Critical error message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812
+root >> ERROR >> Error message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812
+root >> WARNING >> Warning message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812
+root >> INFO >> Info >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812
+root >> DEBUG >> Debug message >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812
+root >> ERROR >> error >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812
+root >> CRITICAL >> production is down >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812
+root >> CRITICAL >> something failed >> 2024.03.19 22:15 >> 1_logging infrastructure.py >> 30812

@@ -1,0 +1,35 @@
+2024-03-19 21:52:26, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 145, "production is down">
+2024-03-19 21:52:29, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 154, "Error: division by zero">
+-----------------------------------------------2024-03-19 21:53:26, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 146, "production is down">
+-----------------------------------------------2024-03-19 21:53:27, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 155, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 21:54:06, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 146, "production is down">
+-----------------------------------------------
+2024-03-19 21:54:07, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 155, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 21:57:48, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 147, "production is down">
+-----------------------------------------------
+2024-03-19 21:57:50, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 156, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 22:04:00, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 144, "production is down">
+-----------------------------------------------
+2024-03-19 22:04:01, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 145, "something failed">
+-----------------------------------------------
+2024-03-19 22:04:03, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 153, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 22:15:38, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 145, "production is down">
+-----------------------------------------------
+2024-03-19 22:15:41, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 146, "something failed">
