@@ -1,0 +1,123 @@
+-----------------------------------------------
+2024-03-20 10:10:01, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_16016\3620398748.py, 17, "Critical error message">
+-----------------------------------------------
+2024-03-20 10:12:13, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_16016\3620398748.py, 17, "Critical error message">
+-----------------------------------------------
+2024-03-20 11:50:43, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\722791305.py, 61, "Engine didn`t created. Error:">
+-----------------------------------------------
+2024-03-20 11:52:28, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1257028980.py, 61, "Engine didn`t created. Error:">
+-----------------------------------------------
+2024-03-20 11:53:16, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1290746428.py, 61, "Engine didn`t created. Error:">
+-----------------------------------------------
+2024-03-20 11:59:05, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\2295540571.py, 61, "Error:">
+-----------------------------------------------
+2024-03-20 12:00:23, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1452096086.py, 61, "Error:">
+-----------------------------------------------
+2024-03-20 12:03:10, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\4195843073.py, 61, "Error:">
+-----------------------------------------------
+2024-03-20 12:07:16, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1239215262.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:26:26, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\418267526.py, 17, "Table creation is failed">
+-----------------------------------------------
+2024-03-20 12:35:56, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1239215262.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:36:41, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1239215262.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:38:36, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1349930.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:39:24, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\4241830766.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:40:34, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\4241830766.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:41:05, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\2100505857.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:41:43, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\3699407553.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:43:22, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\2100505857.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:43:50, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\3923645317.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:44:21, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\4223930165.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:46:09, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\2659061715.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 12:49:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\3619159681.py, 62, "Error:">
+-----------------------------------------------
+2024-03-20 15:16:20, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27960\1609384349.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 15:37:07, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\1609384349.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:02:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\2124920992.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:03:42, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\2124920992.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:04:14, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\605551589.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:04:17, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\605551589.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:04:20, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\605551589.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:05:23, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:05:26, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:05:29, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:05:30, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:06:03, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:06:06, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:06:08, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:06:10, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:06:12, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_30080\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:09:39, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_37444\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:14:42, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_22068\4136823948.py, 8, "Critical error message">
+-----------------------------------------------
+2024-03-20 16:15:55, critical log >> Produced by: Anane
+<LogRecord: root, 50, C:\Users\Anane\AppData\Local\Temp\ipykernel_27172\4136823948.py, 8, "Critical error message">

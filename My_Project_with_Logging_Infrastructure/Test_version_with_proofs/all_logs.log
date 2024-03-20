@@ -1,0 +1,35 @@
+root >> CRITICAL >> Critical error message >> 2024.03.20 16:14 >> 605551589.py >> 22068
+root >> ERROR >> Error message >> 2024.03.20 16:14 >> 605551589.py >> 22068
+root >> WARNING >> Warning message >> 2024.03.20 16:14 >> 605551589.py >> 22068
+root >> INFO >> Info >> 2024.03.20 16:14 >> 605551589.py >> 22068
+root >> DEBUG >> Debug message >> 2024.03.20 16:14 >> 605551589.py >> 22068
+root >> CRITICAL >> Critical error message >> 2024.03.20 16:14 >> 4136823948.py >> 22068
+root >> ERROR >> Error message >> 2024.03.20 16:14 >> 4136823948.py >> 22068
+root >> WARNING >> Warning message >> 2024.03.20 16:14 >> 4136823948.py >> 22068
+root >> INFO >> Info >> 2024.03.20 16:14 >> 4136823948.py >> 22068
+root >> DEBUG >> Debug message >> 2024.03.20 16:14 >> 4136823948.py >> 22068
+root >> CRITICAL >> Critical error message >> 2024.03.20 16:15 >> 4136823948.py >> 27172
+root >> ERROR >> Error message >> 2024.03.20 16:15 >> 4136823948.py >> 27172
+root >> WARNING >> Warning message >> 2024.03.20 16:15 >> 4136823948.py >> 27172
+root >> INFO >> Info >> 2024.03.20 16:15 >> 4136823948.py >> 27172
+root >> DEBUG >> Debug message >> 2024.03.20 16:15 >> 4136823948.py >> 27172
+root >> CRITICAL >> Critical error message >> 2024.03.20 16:15 >> 4136823948.py >> 27172
+root >> ERROR >> Error message >> 2024.03.20 16:15 >> 4136823948.py >> 27172
+root >> WARNING >> Warning message >> 2024.03.20 16:16 >> 4136823948.py >> 27172
+root >> INFO >> Info >> 2024.03.20 16:16 >> 4136823948.py >> 27172
+root >> DEBUG >> Debug message >> 2024.03.20 16:16 >> 4136823948.py >> 27172
+numexpr.utils >> INFO >> NumExpr defaulting to 8 threads. >> 2024.03.20 16:16 >> utils.py >> 27172
+root >> INFO >> Datasets successfully downloaded >> 2024.03.20 16:16 >> 4092969884.py >> 27172
+root >> INFO >> Dataset already exists. >> 2024.03.20 16:17 >> 2453809386.py >> 27172
+root >> INFO >> Columns renamed. >> 2024.03.20 16:17 >> 226423092.py >> 27172
+root >> INFO >> Parsing started >> 2024.03.20 16:17 >> 1806198386.py >> 27172
+root >> INFO >> Column successfully parsed >> 2024.03.20 16:17 >> 1806198386.py >> 27172
+root >> INFO >> Engine creation started >> 2024.03.20 16:17 >> 781461201.py >> 27172
+root >> INFO >> Engine successfully created >> 2024.03.20 16:17 >> 781461201.py >> 27172
+root >> INFO >> Engine creation started >> 2024.03.20 16:18 >> 3526768449.py >> 27172
+root >> INFO >> Engine successfully created >> 2024.03.20 16:18 >> 3526768449.py >> 27172
+root >> INFO >> Class Location() defined >> 2024.03.20 16:18 >> 2965716899.py >> 27172
+root >> INFO >> Table loading started >> 2024.03.20 16:18 >> 2965716899.py >> 27172
+root >> INFO >> Table loading successfully finished >> 2024.03.20 16:18 >> 2965716899.py >> 27172
+root >> INFO >> Session started. >> 2024.03.20 16:18 >> 2965716899.py >> 27172
+root >> INFO >> Session successfuly terminated >> 2024.03.20 16:18 >> 2965716899.py >> 27172
