@@ -1,0 +1,557 @@
+2024-03-19 21:52:26, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 145, "production is down">
+2024-03-19 21:52:29, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 154, "Error: division by zero">
+-----------------------------------------------2024-03-19 21:53:26, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 146, "production is down">
+-----------------------------------------------2024-03-19 21:53:27, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 155, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 21:54:06, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 146, "production is down">
+-----------------------------------------------
+2024-03-19 21:54:07, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 155, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 21:57:48, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 147, "production is down">
+-----------------------------------------------
+2024-03-19 21:57:50, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 156, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 22:04:00, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 144, "production is down">
+-----------------------------------------------
+2024-03-19 22:04:01, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 145, "something failed">
+-----------------------------------------------
+2024-03-19 22:04:03, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 153, "Error: division by zero">
+-----------------------------------------------
+2024-03-19 22:15:38, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 145, "production is down">
+-----------------------------------------------
+2024-03-19 22:15:41, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 146, "something failed">
+-----------------------------------------------
+2024-03-20 23:12:42, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-20 23:12:42, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-20 23:12:42, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-20 23:12:42, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-20 23:12:42, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-20 23:13:17, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-20 23:13:17, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-20 23:13:17, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-20 23:13:17, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-20 23:13:17, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-20 23:14:06, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-20 23:14:06, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-20 23:14:06, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-20 23:14:06, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-20 23:14:06, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-20 23:14:51, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-20 23:14:51, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-20 23:14:51, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-20 23:14:51, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-20 23:14:51, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-20 23:16:07, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-20 23:16:07, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-20 23:16:07, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-20 23:16:07, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-20 23:16:07, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-20 23:20:11, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-20 23:20:11, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-20 23:20:11, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-20 23:20:11, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-20 23:20:11, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-21 09:31:12, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-21 09:31:12, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-21 09:31:12, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-21 09:31:12, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-21 09:31:12, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-21 09:33:09, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-21 09:33:09, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-21 09:33:09, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-21 09:33:09, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-21 09:33:09, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-21 09:33:21, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 145, "production is down">
+-----------------------------------------------
+2024-03-21 09:33:23, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\1_logging infrastructure.py, 146, "something failed">
+-----------------------------------------------
+2024-03-21 09:48:17, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-21 09:48:17, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-21 09:48:17, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-21 09:48:17, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-21 09:48:17, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-21 09:52:33, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-21 09:52:33, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-21 09:52:33, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-21 09:52:33, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-21 09:52:33, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-21 09:55:46, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 10, "Critical error message">
+-----------------------------------------------
+2024-03-21 09:55:46, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 11, "Error message">
+-----------------------------------------------
+2024-03-21 09:55:46, critical log >> Produced by: Anane
+<LogRecord: root, 30, D:\PycharmProjects\Logger\test_log_config.py, 12, "Warning message">
+-----------------------------------------------
+2024-03-21 09:55:46, critical log >> Produced by: Anane
+<LogRecord: root, 20, D:\PycharmProjects\Logger\test_log_config.py, 13, "Info">
+-----------------------------------------------
+2024-03-21 09:55:46, critical log >> Produced by: Anane
+<LogRecord: root, 10, D:\PycharmProjects\Logger\test_log_config.py, 14, "Debug message">
+-----------------------------------------------
+2024-03-21 09:56:21, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 19, "error">
+-----------------------------------------------
+2024-03-21 09:56:21, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 20, "production is down">
+-----------------------------------------------
+2024-03-21 09:56:21, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 21, "something failed">
+-----------------------------------------------
+2024-03-21 10:07:19, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:07:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:07:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:08:18, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:08:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:08:20, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:11:52, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:11:53, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:11:54, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:15:29, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:15:30, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:15:31, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:19:32, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:19:34, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:19:35, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:23:43, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:23:44, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:23:45, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:24:09, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:24:10, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:24:12, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:31:40, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:31:42, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:31:43, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:36:17, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:36:17, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:36:17, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:36:52, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:36:52, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:36:52, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:37:09, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:37:11, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:37:13, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:37:44, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:37:45, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:37:47, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:39:10, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:39:11, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:39:13, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:45:16, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:45:17, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:45:18, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:48:54, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:48:54, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:48:54, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:49:42, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:49:42, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:49:42, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:50:42, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:50:44, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:50:45, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:51:07, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:51:07, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:51:07, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:53:24, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:53:26, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:53:27, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:53:50, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:53:52, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:53:53, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:54:39, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:54:40, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:54:42, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:54:50, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:54:52, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:54:53, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:55:19, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:55:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:55:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:55:36, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:55:38, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:55:41, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:58:42, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:58:45, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:58:48, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 10:59:26, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 10:59:29, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 10:59:31, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:00:29, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:00:32, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:00:34, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:05:28, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:05:30, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:05:32, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:06:02, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:06:04, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:06:06, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:06:16, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:06:17, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:06:19, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:06:55, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:06:55, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:06:55, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:11:52, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:11:52, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:11:52, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:12:15, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:12:15, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:12:15, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:20:25, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:20:27, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:20:28, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:20:51, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:20:53, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:20:54, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:21:49, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:21:59, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:22:09, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:23:38, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:23:40, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:23:41, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">
+-----------------------------------------------
+2024-03-21 11:25:44, critical log >> Produced by: Anane
+<LogRecord: root, 40, D:\PycharmProjects\Logger\test_log_config.py, 12, "error">
+-----------------------------------------------
+2024-03-21 11:25:45, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 13, "production is down">
+-----------------------------------------------
+2024-03-21 11:25:46, critical log >> Produced by: Anane
+<LogRecord: root, 50, D:\PycharmProjects\Logger\test_log_config.py, 14, "something failed">

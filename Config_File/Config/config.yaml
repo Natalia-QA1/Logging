@@ -1,0 +1,65 @@
+version: 1
+disable_existing_loggers: no
+formatters:
+    simple:
+        format: "%(name)s >> %(levelname)s >> %(message)s >> %(asctime)s >> %(filename)s >> %(process)d"
+    verbose:
+        format: "%(asctime)-15s %(name)-5s %(levelname)-8s"
+handlers:
+    console:
+        class: logging.StreamHandler
+        level: DEBUG
+        formatter: simple
+        stream: ext://sys.stdout
+    writer:
+        class: logging_structure.handlers.WriteToFileHandler
+        level: DEBUG
+        formatter: verbose
+    gm:
+        class: logging_structure.handlers.TlsSMTPHandler
+        level: DEBUG
+        mailhost: ['smtp.gmail.com', 587] # For SSL, enter 465.  For TLS, enter 587
+        fromaddr: "nataliasp20n08@gmail.com"
+        toaddrs: ["ananiev4nat@yandex.ru"]
+        subject: "Errors Logs"
+#        credentials: ('nataliasp20n08@gmail.com', 'password')
+        formatter: verbose
+loggers:
+    root:
+        level: DEBUG
+        handlers: [console, writer, gm]
+
+
+# In general configuration works, it write logs to files
+# But I am a bit lost with SMTP handler configuration
+# I am trying to fix it
+
+#--- Logging error ---
+#Traceback (most recent call last):
+#  File "D:\PycharmProjects\Logger\logging_structure\handlers.py", line 106, in emit
+#    smtp.sendmail(self.fromaddr, self.toaddrs, msg)
+#  File "C:\ProgramData\Anaconda3\lib\smtplib.py", line 887, in sendmail
+#    raise SMTPSenderRefused(code, resp, from_addr)
+#smtplib.SMTPSenderRefused: (530, b'5.7.0 Authentication Required. For more information, go to\n5.7.0  https://support.google.com/mail/?p=WantAuthError t17-20020a05600c199100b004146e58cc32sm4163451wmq.12 - gsmtp', 'nataliasp20n08@gmail.com')
+#Call stack:
+#  File "D:\PycharmProjects\Logger\test_log_config.py", line 14, in <module>
+#    logging.critical('something failed')  # email subject should be changed >Attention! Critical error!/despite 'something'
+#  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 2052, in critical
+#    root.critical(msg, *args, **kwargs)
+#  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1493, in critical
+#    self._log(CRITICAL, msg, args, **kwargs)
+#  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1589, in _log
+#    self.handle(record)
+#  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1599, in handle
+#    self.callHandlers(record)
+#  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 1661, in callHandlers
+#    hdlr.handle(record)
+#  File "C:\ProgramData\Anaconda3\lib\logging\__init__.py", line 952, in handle
+#    self.emit(record)
+#  File "D:\PycharmProjects\Logger\logging_structure\handlers.py", line 111, in emit
+#    self.handleError(record)
+#Message: 'something failed'
+#Arguments: ()
+#
+#Process finished with exit code 0
+
